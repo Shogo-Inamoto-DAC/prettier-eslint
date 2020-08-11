@@ -5,8 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "start": "nps",
-    "test": "nps test",
-    "precommit": "opt --in pre-commit --exec \"npm start validate\""
+    "test": "nps test"
   },
   "files": [
     "dist"
